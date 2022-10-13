@@ -1,7 +1,7 @@
 {
   "android": {
     "alert": {
-      "blocking": true, 
+      "blocking": false, 
       "message": "We are currently performing server maintenance. Please try again later."
     }, 
     "optionalUpdate": {
